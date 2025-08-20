@@ -30,7 +30,7 @@ function update(direction) {
 clearInterval(timer);
 timer = setInterval(() => {
   update(1);
-}, 10000);
+}, 20000);
 
 prevButtom.addEventListener("click", () => {
   update(1);
