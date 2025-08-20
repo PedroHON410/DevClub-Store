@@ -1,22 +1,22 @@
 #DevClub Store
 
-[Página inicial](/images/pagina%20inicial.png)
+[Home Page](/images/pagina%20inicial.png)
 
-Uma loja virtual futurista desenvolvida durante os estudos no DevClub.
-O projeto traz uma interface moderna inspirada em tecnologia, com foco em design responsivo e navegação intuitiva.
+A futuristic online store developed during my studies at DevClub.
+The project features a modern, technology-inspired interface with a focus on responsive design and intuitive navigation.
 
-🚀 ##Tecnologias utilizadas
+🚀 ## Technologies Used
 
-HTML5 → Estrutura das páginas
+HTML5 → Page structure
 
-CSS3 → Estilização, animações e responsividade
+CSS3 → Styling, animations, and responsiveness
 
-JavaScript (ES6+) → Interatividade e dinâmica da loja
+JavaScript (ES6+) → Interactivity and store dynamics
 
-🎯 ##Funcionalidades
+🎯 ## Features
 
-✅ Página inicial com destaque para produtos
-✅ Carrossel interativo de itens em destaque
-✅ Layout moderno com design futurista
-✅ Seções de navegação: Home, Products, Contact e About
-✅ Responsividade em diferentes tamanhos de tela
+✅ Home page highlighting products
+✅ Interactive product carousel
+✅ Modern layout with a futuristic design
+✅ Navigation sections: Home, Products, Contact, and About
+✅ Responsive design for different screen sizes
